@@ -1,0 +1,3 @@
+﻿using WordCounterInText;
+
+ReadFile.CountWord();
